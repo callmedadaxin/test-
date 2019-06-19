@@ -1,11 +1,12 @@
 import React from "react";
 import data from "./jsonResult.json";
+import { parse } from "query-string";
 
 const baseUrl = "http://cert-chain.com/";
 
 export default function List(props) {
-  const { match } = props;
-  const { params = {} } = match;
+  const params = parse(window.location.search);
+
   const items = data.find(item => item.place === params.place);
   const { list = [] } = items;
   return (
