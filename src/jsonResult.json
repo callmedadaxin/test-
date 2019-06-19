@@ -1,0 +1,237 @@
+[
+  {
+    "place": "hex时间城堡密室逃脱",
+    "location": {
+      "location": { "lng": 116.326296, "lat": 39.854313 },
+      "precise": 1,
+      "confidence": 80,
+      "level": "休闲娱乐"
+    },
+    "list": ["4b0bb910-9271-11e9-934c-635679a0c29b"]
+  },
+  {
+    "place": "乐翻了蹦床公园",
+    "location": {
+      "location": { "lng": 117.172023, "lat": 40.25565 },
+      "precise": 0,
+      "confidence": 25,
+      "level": "旅游景点"
+    },
+    "list": ["4b0e5120-9271-11e9-934c-635679a0c29b"]
+  },
+  {
+    "place": "北京798艺术中心",
+    "location": {
+      "location": { "lng": 116.501142, "lat": 39.99289 },
+      "precise": 1,
+      "confidence": 75,
+      "level": "教育"
+    },
+    "list": ["90dbd7f0-9270-11e9-b3c9-61985ebe8417"]
+  },
+  {
+    "place": "北京园博园",
+    "location": {
+      "location": { "lng": 116.203324, "lat": 39.881953 },
+      "precise": 0,
+      "confidence": 30,
+      "level": "UNKNOWN"
+    },
+    "list": [
+      "90dc2610-9270-11e9-b3c9-61985ebe8417",
+      "90dc4d20-9270-11e9-b3c9-61985ebe8417"
+    ]
+  },
+  {
+    "place": "北京市朝阳区大屯路14号",
+    "location": {
+      "location": { "lng": 116.403043, "lat": 40.008566 },
+      "precise": 1,
+      "confidence": 80,
+      "level": "道路"
+    },
+    "list": [
+      "4b0e7830-9271-11e9-934c-635679a0c29b",
+      "90dc7431-9270-11e9-b3c9-61985ebe8417"
+    ]
+  },
+  {
+    "place": "北京欢乐谷",
+    "location": {
+      "location": { "lng": 116.500822, "lat": 39.872926 },
+      "precise": 0,
+      "confidence": 40,
+      "level": "旅游景点"
+    },
+    "list": [
+      "4b0ec650-9271-11e9-934c-635679a0c29b",
+      "4b0eed60-9271-11e9-934c-635679a0c29b"
+    ]
+  },
+  {
+    "place": "北京科技大学",
+    "location": {
+      "location": { "lng": 116.365976, "lat": 39.996547 },
+      "precise": 0,
+      "confidence": 40,
+      "level": "UNKNOWN"
+    },
+    "list": ["4b0f1470-9271-11e9-934c-635679a0c29b"]
+  },
+  {
+    "place": "北京野生动物园",
+    "location": {
+      "location": { "lng": 116.341687, "lat": 39.500935 },
+      "precise": 0,
+      "confidence": 30,
+      "level": "旅游景点"
+    },
+    "list": [
+      "4b0f3b80-9271-11e9-934c-635679a0c29b",
+      "90dce961-9270-11e9-b3c9-61985ebe8417"
+    ]
+  },
+  {
+    "place": "华为公司北京研究所(环保园)",
+    "location": {
+      "location": { "lng": 116.185456, "lat": 40.060753 },
+      "precise": 1,
+      "confidence": 80,
+      "level": "UNKNOWN"
+    },
+    "list": ["90dd1070-9270-11e9-b3c9-61985ebe8417"]
+  },
+  {
+    "place": "古北水镇",
+    "location": {
+      "location": { "lng": 117.286357, "lat": 40.659982 },
+      "precise": 0,
+      "confidence": 30,
+      "level": "旅游景点"
+    },
+    "list": ["90dd3780-9270-11e9-b3c9-61985ebe8417"]
+  },
+  {
+    "place": "国家体育场(鸟巢)",
+    "location": {
+      "location": { "lng": 116.402932, "lat": 39.999088 },
+      "precise": 0,
+      "confidence": 60,
+      "level": "休闲娱乐"
+    },
+    "list": ["90dd3781-9270-11e9-b3c9-61985ebe8417"]
+  },
+  {
+    "place": "圆明园遗址公园",
+    "location": {
+      "location": { "lng": 116.310106, "lat": 40.012486 },
+      "precise": 0,
+      "confidence": 30,
+      "level": "旅游景点"
+    },
+    "list": [
+      "4b0f6290-9271-11e9-934c-635679a0c29b",
+      "4b0f89a0-9271-11e9-934c-635679a0c29b"
+    ]
+  },
+  {
+    "place": "怀北国际滑雪场",
+    "location": {
+      "location": { "lng": 116.66782, "lat": 40.449034 },
+      "precise": 0,
+      "confidence": 60,
+      "level": "UNKNOWN"
+    },
+    "list": [
+      "90dd85a0-9270-11e9-b3c9-61985ebe8417",
+      "90dd85a1-9270-11e9-b3c9-61985ebe8417"
+    ]
+  },
+  {
+    "place": "悠唐购物中心",
+    "location": {
+      "location": { "lng": 116.445977, "lat": 39.927563 },
+      "precise": 1,
+      "confidence": 80,
+      "level": "购物"
+    },
+    "list": [
+      "90ddacb0-9270-11e9-b3c9-61985ebe8417",
+      "90ddd3c0-9270-11e9-b3c9-61985ebe8417"
+    ]
+  },
+  {
+    "place": "我爱咖啡(学院路店)",
+    "location": {
+      "location": { "lng": 116.352293, "lat": 39.991856 },
+      "precise": 1,
+      "confidence": 80,
+      "level": "餐饮"
+    },
+    "list": [
+      "4b0fd7c0-9271-11e9-934c-635679a0c29b",
+      "4b0fd7c1-9271-11e9-934c-635679a0c29b"
+    ]
+  },
+  {
+    "place": "玉渊潭公园",
+    "location": {
+      "location": { "lng": 116.326636, "lat": 39.922517 },
+      "precise": 0,
+      "confidence": 40,
+      "level": "旅游景点"
+    },
+    "list": ["4b1025e0-9271-11e9-934c-635679a0c29b"]
+  },
+  {
+    "place": "玉渡山风景区",
+    "location": {
+      "location": { "lng": 115.904069, "lat": 40.537234 },
+      "precise": 0,
+      "confidence": 25,
+      "level": "旅游景点"
+    },
+    "list": [
+      "4b104cf0-9271-11e9-934c-635679a0c29b",
+      "4b104cf1-9271-11e9-934c-635679a0c29b",
+      "4b107400-9271-11e9-934c-635679a0c29b",
+      "90de7000-9270-11e9-b3c9-61985ebe8417"
+    ]
+  },
+  {
+    "place": "红叶岭",
+    "location": {
+      "location": { "lng": 116.029711, "lat": 40.355369 },
+      "precise": 0,
+      "confidence": 25,
+      "level": "村庄"
+    },
+    "list": [
+      "90de7001-9270-11e9-b3c9-61985ebe8417",
+      "90de9710-9270-11e9-b3c9-61985ebe8417"
+    ]
+  },
+  {
+    "place": "蓝色港湾",
+    "location": {
+      "location": { "lng": 116.482486, "lat": 39.95509 },
+      "precise": 0,
+      "confidence": 50,
+      "level": "UNKNOWN"
+    },
+    "list": ["90de9711-9270-11e9-b3c9-61985ebe8417"]
+  },
+  {
+    "place": "蟒山国家森林公园",
+    "location": {
+      "location": { "lng": 116.297866, "lat": 40.268061 },
+      "precise": 0,
+      "confidence": 25,
+      "level": "旅游景点"
+    },
+    "list": [
+      "90debe20-9270-11e9-b3c9-61985ebe8417",
+      "90dee530-9270-11e9-b3c9-61985ebe8417"
+    ]
+  }
+]
